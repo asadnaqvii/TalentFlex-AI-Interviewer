@@ -148,7 +148,9 @@ export default function Page() {
 
   useEffect(() => {
     room.on(RoomEvent.MediaDevicesError, onDeviceFailure);
-    return () => room.off(RoomEvent.MediaDevicesError, onDeviceFailure);
+      return () => {
+          room.off(RoomEvent.MediaDevicesError, onDeviceFailure);
+        };
   }, [room]);
 
   return (
