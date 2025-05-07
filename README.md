@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="./.github/assets/app-icon.png" alt="Voice Assistant App Icon" width="100" height="100">
 
 # Web Voice Assistant
@@ -36,3 +37,6 @@ You'll also need an agent to speak with. Try our [Voice AI Quickstart](https://d
 ## Contributing
 
 This template is open source and we welcome contributions! Please open a PR or issue through GitHub, and don't forget to join us in the [LiveKit Community Slack](https://livekit.io/join-slack)!
+=======
+# TalentFlex-AI-Interviewer
+>>>>>>> 32e3dae030cb3ba945e4496e948ed63fe9596880
