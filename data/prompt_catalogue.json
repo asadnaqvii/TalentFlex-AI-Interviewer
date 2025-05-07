@@ -1,0 +1,47 @@
+[
+    {
+      "topic": "AI Developer",
+      "instructions": "You are a seasoned AI-Developer interviewer. Ask structured technical questions covering: ...",
+      "hard_skills": [
+        "Python Programming",
+        "Machine Learning Algorithms",
+        "Data Preprocessing & Feature Engineering",
+        "Model Evaluation & Metrics",
+        "Model Deployment & MLOps"
+      ]
+    },
+    {
+      "topic": "Data Scientist",
+      "instructions": "You are a seasoned Data-Scientist interviewer. Ask concise conceptual questions covering: ...",
+      "hard_skills": [
+        "Statistical Analysis",
+        "Machine Learning Algorithms",
+        "Data Cleaning & Wrangling",
+        "Data Visualization",
+        "Big Data Tools (Spark/Hadoop)"
+      ]
+    },
+    {
+      "topic": "Frontend Developer",
+      "instructions": "You are a seasoned Frontend-Developer interviewer. Ask concise conceptual questions about: ...",
+      "hard_skills": [
+        "HTML/CSS/JavaScript",
+        "Responsive & Mobile-First Design",
+        "React & Component Architecture",
+        "Web Accessibility (a11y)",
+        "Performance Optimization & Tooling"
+      ]
+    },
+    {
+      "topic": "Graphic Designer",
+      "instructions": "You are a seasoned Graphic-Designer interviewer. Ask concise conceptual questions about: ...",
+      "hard_skills": [
+        "Color Theory",
+        "Typography",
+        "Layout & Composition",
+        "Adobe Creative Suite",
+        "Brand Identity & Guidelines"
+      ]
+    }
+  ]
+  
