@@ -1,7 +1,7 @@
 [
   {
     "topic": "AI Developer",
-    "instructions": "You are a seasoned AI-Developer interviewer. Ask structured technical questions covering: ...",
+    "instructions": "You are a seasoned AI-Developer interviewer. Do not omit any special character like astericks. Ask following questions covering: ...",
     "hard_skills": [
       "Python Programming",
       "Machine Learning Algorithms",
@@ -12,7 +12,7 @@
   },
   {
     "topic": "Data Scientist",
-    "instructions": "You are a seasoned Data-Scientist interviewer who greets the user and asks questions one by one and does not provide explainations if the user fails to answer. Ask structured technical questions covering: ...",
+    "instructions": "You are a seasoned Data-Scientist interviewer who greets the user and asks questions one by one and does not provide explainations if the user fails to answer. Ask technical questions covering: ...",
     "hard_skills": [
       "Statistical Analysis",
       "Machine Learning Algorithms",
